@@ -1,0 +1,16 @@
+C:\Users\Raiane Pelissoni\OneDrive\Área de Trabalho\fazendo programa\CalcularIMC\CalcularIMC\bin\Debug\net8.0-windows\CalcularIMC.exe
+C:\Users\Raiane Pelissoni\OneDrive\Área de Trabalho\fazendo programa\CalcularIMC\CalcularIMC\bin\Debug\net8.0-windows\CalcularIMC.deps.json
+C:\Users\Raiane Pelissoni\OneDrive\Área de Trabalho\fazendo programa\CalcularIMC\CalcularIMC\bin\Debug\net8.0-windows\CalcularIMC.runtimeconfig.json
+C:\Users\Raiane Pelissoni\OneDrive\Área de Trabalho\fazendo programa\CalcularIMC\CalcularIMC\bin\Debug\net8.0-windows\CalcularIMC.dll
+C:\Users\Raiane Pelissoni\OneDrive\Área de Trabalho\fazendo programa\CalcularIMC\CalcularIMC\bin\Debug\net8.0-windows\CalcularIMC.pdb
+C:\Users\Raiane Pelissoni\OneDrive\Área de Trabalho\fazendo programa\CalcularIMC\CalcularIMC\obj\Debug\net8.0-windows\CalcularIMC.Form1.resources
+C:\Users\Raiane Pelissoni\OneDrive\Área de Trabalho\fazendo programa\CalcularIMC\CalcularIMC\obj\Debug\net8.0-windows\CalcularIMC.csproj.GenerateResource.cache
+C:\Users\Raiane Pelissoni\OneDrive\Área de Trabalho\fazendo programa\CalcularIMC\CalcularIMC\obj\Debug\net8.0-windows\CalcularIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raiane Pelissoni\OneDrive\Área de Trabalho\fazendo programa\CalcularIMC\CalcularIMC\obj\Debug\net8.0-windows\CalcularIMC.AssemblyInfoInputs.cache
+C:\Users\Raiane Pelissoni\OneDrive\Área de Trabalho\fazendo programa\CalcularIMC\CalcularIMC\obj\Debug\net8.0-windows\CalcularIMC.AssemblyInfo.cs
+C:\Users\Raiane Pelissoni\OneDrive\Área de Trabalho\fazendo programa\CalcularIMC\CalcularIMC\obj\Debug\net8.0-windows\CalcularIMC.csproj.CoreCompileInputs.cache
+C:\Users\Raiane Pelissoni\OneDrive\Área de Trabalho\fazendo programa\CalcularIMC\CalcularIMC\obj\Debug\net8.0-windows\CalcularIMC.dll
+C:\Users\Raiane Pelissoni\OneDrive\Área de Trabalho\fazendo programa\CalcularIMC\CalcularIMC\obj\Debug\net8.0-windows\refint\CalcularIMC.dll
+C:\Users\Raiane Pelissoni\OneDrive\Área de Trabalho\fazendo programa\CalcularIMC\CalcularIMC\obj\Debug\net8.0-windows\CalcularIMC.pdb
+C:\Users\Raiane Pelissoni\OneDrive\Área de Trabalho\fazendo programa\CalcularIMC\CalcularIMC\obj\Debug\net8.0-windows\CalcularIMC.genruntimeconfig.cache
+C:\Users\Raiane Pelissoni\OneDrive\Área de Trabalho\fazendo programa\CalcularIMC\CalcularIMC\obj\Debug\net8.0-windows\ref\CalcularIMC.dll
